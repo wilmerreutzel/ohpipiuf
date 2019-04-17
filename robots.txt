@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rokouceizu.blatt3000.de/sitemap.xml
